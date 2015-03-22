@@ -1,0 +1,11 @@
+.DS_Store
+.bower-*/
+.idea/
+/config/config.json
+node_modules/
+test/coverage/
+public/bower_components
+npm-debug.log
+npm-*.log
+/config/npm-debug.log
+/config/npm-*.log
